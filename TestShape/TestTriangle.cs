@@ -9,7 +9,7 @@ namespace TestShape
 {
   public class TestTriangle
     {
-        const int Areaa = 7;
+        const int Areaa = 6;
         const int Perimetrr = 12;
         [Fact]
         public void AreaTriangle()
