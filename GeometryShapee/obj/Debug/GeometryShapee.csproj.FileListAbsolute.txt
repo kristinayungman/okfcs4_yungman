@@ -1,0 +1,6 @@
+C:\Users\Ноутбук\Desktop\GeometryShapee\GeometryShapee\bin\Debug\GeometryShapee.dll
+C:\Users\Ноутбук\Desktop\GeometryShapee\GeometryShapee\bin\Debug\GeometryShapee.pdb
+C:\Users\Ноутбук\Desktop\GeometryShapee\GeometryShapee\obj\Debug\GeometryShapee.csproj.AssemblyReference.cache
+C:\Users\Ноутбук\Desktop\GeometryShapee\GeometryShapee\obj\Debug\GeometryShapee.csproj.CoreCompileInputs.cache
+C:\Users\Ноутбук\Desktop\GeometryShapee\GeometryShapee\obj\Debug\GeometryShapee.dll
+C:\Users\Ноутбук\Desktop\GeometryShapee\GeometryShapee\obj\Debug\GeometryShapee.pdb
