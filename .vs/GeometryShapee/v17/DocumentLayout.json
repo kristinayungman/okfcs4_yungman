@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\\u041D\u043E\u0443\u0442\u0431\u0443\u043A\\Desktop\\GeometryShapee\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{F5DE4004-9302-4168-AAB5-3D56AC219036}|TestShape\\TestShape.csproj|c:\\users\\\u043D\u043E\u0443\u0442\u0431\u0443\u043A\\desktop\\geometryshapee\\testshape\\testtriangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5DE4004-9302-4168-AAB5-3D56AC219036}|TestShape\\TestShape.csproj|solutionrelative:testshape\\testtriangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{F5DE4004-9302-4168-AAB5-3D56AC219036}|TestShape\\TestShape.csproj|c:\\users\\\u043D\u043E\u0443\u0442\u0431\u0443\u043A\\desktop\\geometryshapee\\testshape\\testrestang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F5DE4004-9302-4168-AAB5-3D56AC219036}|TestShape\\TestShape.csproj|solutionrelative:testshape\\testrestang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -11,7 +15,7 @@
       "RelativeMoniker": "D:0:0:{71EC1A7C-1212-4CE8-BACE-241FD38789E8}|GeometryShapee\\GeometryShapee.csproj|solutionrelative:geometryshapee\\restangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{71EC1A7C-1212-4CE8-BACE-241FD38789E8}|GeometryShapee\\GeometryShapee.csproj|c:\\users\\\u043D\u043E\u0443\u0442\u0431\u0443\u043A\\desktop\\geometryshapee\\geometryshapee\\triangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{71EC1A7C-1212-4CE8-BACE-241FD38789E8}|GeometryShapee\\GeometryShapee.csproj|C:\\Users\\\u041D\u043E\u0443\u0442\u0431\u0443\u043A\\Desktop\\GeometryShapee\\geometryshapee\\triangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{71EC1A7C-1212-4CE8-BACE-241FD38789E8}|GeometryShapee\\GeometryShapee.csproj|solutionrelative:geometryshapee\\triangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -31,19 +35,31 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "TestTriangle.cs",
+              "DocumentMoniker": "C:\\Users\\\u041D\u043E\u0443\u0442\u0431\u0443\u043A\\Desktop\\GeometryShapee\\TestShape\\TestTriangle.cs",
+              "RelativeDocumentMoniker": "TestShape\\TestTriangle.cs",
+              "ToolTip": "C:\\Users\\\u041D\u043E\u0443\u0442\u0431\u0443\u043A\\Desktop\\GeometryShapee\\TestShape\\TestTriangle.cs",
+              "RelativeToolTip": "TestShape\\TestTriangle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-14T13:35:40.91Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "TestRestang.cs",
               "DocumentMoniker": "C:\\Users\\\u041D\u043E\u0443\u0442\u0431\u0443\u043A\\Desktop\\GeometryShapee\\TestShape\\TestRestang.cs",
               "RelativeDocumentMoniker": "TestShape\\TestRestang.cs",
               "ToolTip": "C:\\Users\\\u041D\u043E\u0443\u0442\u0431\u0443\u043A\\Desktop\\GeometryShapee\\TestShape\\TestRestang.cs",
               "RelativeToolTip": "TestShape\\TestRestang.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAdAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-14T13:29:08.012Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-14T13:29:08.012Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Triangle.cs",
               "DocumentMoniker": "C:\\Users\\\u041D\u043E\u0443\u0442\u0431\u0443\u043A\\Desktop\\GeometryShapee\\GeometryShapee\\Triangle.cs",
               "RelativeDocumentMoniker": "GeometryShapee\\Triangle.cs",
@@ -51,12 +67,11 @@
               "RelativeToolTip": "GeometryShapee\\Triangle.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-14T13:18:31.039Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-14T13:18:31.039Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Shape.cs",
               "DocumentMoniker": "C:\\Users\\\u041D\u043E\u0443\u0442\u0431\u0443\u043A\\Desktop\\GeometryShapee\\GeometryShapee\\Shape.cs",
               "RelativeDocumentMoniker": "GeometryShapee\\Shape.cs",
@@ -68,7 +83,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Restangle.cs",
               "DocumentMoniker": "C:\\Users\\\u041D\u043E\u0443\u0442\u0431\u0443\u043A\\Desktop\\GeometryShapee\\GeometryShapee\\Restangle.cs",
               "RelativeDocumentMoniker": "GeometryShapee\\Restangle.cs",
@@ -76,8 +91,7 @@
               "RelativeToolTip": "GeometryShapee\\Restangle.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-14T13:18:03.811Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-14T13:18:03.811Z"
             }
           ]
         }
